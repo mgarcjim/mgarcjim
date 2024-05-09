@@ -1,4 +1,4 @@
-# Repositorio de Maria
+# Repositorio GitHub de Maria
 ![Imagen de Portada](recursos/pic.jpeg)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
