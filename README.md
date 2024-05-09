@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Repositorio de Maria
 ![Imagen de Portada](recursos/pic.jpeg)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
